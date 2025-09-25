@@ -1,8 +1,6 @@
-# kingsmen_agency_project
+# The Kingsmen Agency - Data Infrastructure & CRM Dashboard
 
-This dashboard was built as a consulting project for The Kingsmen Agency.  
-Data has been removed for pricacy; this screenshot demonstrates the dashboard's structure, functionality, and UI.
-The dashboard serves as a CRM hub for tracking prospects, existing customers, sales calls, delivery routes, and overall sales performance.
+This dashboard was built as a consulting project for The Kingsmen Agency. While data has been removed for privacy, the screenshot highlights its structure, functionality, and UI. Designed as a CRM hub, it enables tracking of prospects, customers, sales calls, delivery routes, and overall performance. Alongside the dashboard and data pipelines, I developed an automated email reminder system in JavaScript that streamlined prospecting and follow-ups, saving the sales team time and improving close rates.
 
 
 
